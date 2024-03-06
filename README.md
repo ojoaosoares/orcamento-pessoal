@@ -30,7 +30,7 @@ Orcamento Pessoal is a budget management application that utilizes the browser's
 
 ## Contact
 
-- [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
+- [Linkedin](http://www.linkedin.com/in/ojoaovsoares)
 
 # Contributions
 
