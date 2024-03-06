@@ -1,4 +1,4 @@
-# Orcamento Pessoal
+# Orçamento Pessoal
 
 A simple database designed in JavaScript that utilizes LocalStorage as its foundation.
 
